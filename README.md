@@ -1,12 +1,12 @@
-<h1 align="center"> Hi Fellow Devs 
+<h1 align="center"> Hello Guys
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
- , I am Rao Akif </h1>
+ , I am Sediqullah Badakhsh </h1>
 
 <h3 align="center">  Full Stack Web Developer </h3>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/RaoAkif/"><img alt="LinkedIn" src="https://img.shields.io/badge/RaoAkif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RaoAkif/"></a>
-<a href="https://twitter.com/AkifTufail"><img alt="Twitter" src="https://img.shields.io/badge/RaoAkif-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RaoAkif"></a>
+<a href="https://www.linkedin.com/in/sediqullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/sediqullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sediqullah/"></a>
+<a href="https://twitter.com/sediqullah6"><img alt="Twitter" src="https://img.shields.io/badge/Sediqullah6-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Sediqullah6"></a>
 </p>
 <p align="center"> <a href="#"><img alt="For Hire" src="https://img.shields.io/badge/-Searching for new challenges-1ca0f1?style=for-the-badge&color=c1c1c1"></a> </p>
 
